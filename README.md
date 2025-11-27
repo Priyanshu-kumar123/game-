@@ -1,2 +1,3 @@
 # game-
-just for demo
+just for demo.
+
